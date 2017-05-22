@@ -1,0 +1,4 @@
+1. 第一种是按照扩展 mysqli mysql redis
+	.dll .so php.ini 
+2. 就是php程序 直接require include ->composer 讯搜
+
